@@ -70,7 +70,7 @@ La primera opcion te pide buscar un libro para añadirlo a la base de datos
 
 ![image](https://github.com/user-attachments/assets/28d6605b-7d4a-4bfa-98cf-2255c7952a03)
 
-##Contribuciones
+## Contribuciones
 Si deseas contribuir a este proyecto, por favor sigue estos pasos:
 
 Haz un fork del repositorio
@@ -80,7 +80,7 @@ Empuja tu rama: `git push origin mi-feature`
 Abre un Pull Request
 
 
-##Agradecimientos
+## Agradecimientos
 
 - Un eterno agradecimeinto a Alura y a los profesores que hicieron posible todos mis avances con Spring.
 - Un agradecimiento a gutendex por proporcionar la API que permitio realizar este trabajo.
