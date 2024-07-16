@@ -7,9 +7,7 @@
 3. [Instalación](#instalación)
 4. [Uso](#uso)
 5. [Contribuciones](#contribuciones)
-6. [Licencia](#licencia)
-7. [Autores](#autores)
-8. [Agradecimientos](#agradecimientos)
+6. [Agradecimientos](#agradecimientos)
 
 ## Introducción
 
@@ -72,9 +70,18 @@ La primera opcion te pide buscar un libro para añadirlo a la base de datos
 
 ![image](https://github.com/user-attachments/assets/28d6605b-7d4a-4bfa-98cf-2255c7952a03)
 
-   
+##Contribuciones
+Si deseas contribuir a este proyecto, por favor sigue estos pasos:
+
+Haz un fork del repositorio
+Crea una rama para tu feature: `git checkout -b mi-feature`
+Haz commit de tus cambios: `git commit -m 'Añadir mi feature`
+Empuja tu rama: `git push origin mi-feature`
+Abre un Pull Request
 
 
+##Agradecimientos
 
-
+- Un eterno agradecimeinto a Alura y a los profesores que hicieron posible todos mis avances con Spring.
+- Un agradecimiento a gutendex por proporcionar la API que permitio realizar este trabajo.
 
